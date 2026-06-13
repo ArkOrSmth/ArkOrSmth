@@ -1,44 +1,37 @@
-# Ark
+## hi there, i'm Ark! 🌿
 
-<!-- Minimalist Lesbian Flag Accent Bar -->
-<svg width="100%" height="8" viewBox="0 0 100 8" preserveAspectRatio="none" style="display: block; margin: 12px 0 24px 0; border-radius: 2px;">
-  <rect x="0" y="0" width="20" height="8" fill="#D52D00" />
-  <rect x="20" y="0" width="20" height="8" fill="#FF9A56" />
-  <rect x="40" y="0" width="20" height="8" fill="#FFFFFF" />
-  <rect x="60" y="0" width="20" height="8" fill="#D362A4" />
-  <rect x="80" y="0" width="20" height="8" fill="#A30262" />
-</svg>
-
-I am a female software developer specializing in backend engineering, automation, and API design. Over the past **5 years**, I have focused on building tools using Python and the Node.js runtime environment.
+i'm a 14-year-old lesbian developer who got hooked on coding through Discord bots — and never looked back. i've been coding for **~5 years** now, working primarily with **Node.js** and **Python**.
 
 ---
 
-### Ecosystem & Infrastructure
+###  about me
 
-* **Mint Studios** — Multi-utility development network and production ecosystem.
-  * [Explore Mint Studios](https://mintstudios.studio)
-* **Kokoa** — Fully integrated custom automation framework built for Discord.
-  * [Infrastructure Overview](https://mintstudios.studio)
-
----
-
-### 🛠️ Technical Matrix
-
-```json
-{
-  "runtime_environments": ["Node.js", "Python"],
-  "core_languages": ["JavaScript", "Python"],
-  "specialties": ["Discord Application Development", "System Automation"]
-}
-```
-
-```python
-class Profile:
-    def __init__(self):
-        self.identity = "Female / Lesbian / Taken"
-        self.interests = ["Backend Systems", "Kasane Teto Addict"]
-```
+-  **pronouns:** she/her
+-  lesbian & proudly taken by my girlfriend **MySweetMelodyDreams** <3
+-  i got into coding while exploring Discord bots and just kept going lol
+-  i'm currently working on bot projects and studio stuff
+-  ask me about Discord bots, Node.js, or Python!
 
 ---
 
-*“this shit makes me want to kill myself.” - Kasane Teto*
+###  tech stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+###  my projects
+
+####  [Kokoa](https://discord.com/oauth2/authorize?client_id=1504220830035345488&permissions=8&integration_type=0&scope=bot)
+a Discord backup bot — back up your servers with ease.
+
+####  [Mint Studios](https://mintstudios.studio/)
+i'm the **founder** of Mint Studios, a Discord studio. come check us out!
+
+---
+
+###  find me
+
+-  **website:** [mintstudios.studio](https://mintstudios.studio/)
